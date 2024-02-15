@@ -1,4 +1,3 @@
-import { ToastContainer } from 'react-toastify';
 import { useSelector, useDispatch } from 'react-redux';
 import { setLoading } from './redux/loaderReducer';
 import { toast } from 'react-toastify';
